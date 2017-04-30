@@ -1,0 +1,26 @@
+{
+  "name": "ats-pprint",
+  "version": "1.0.0",
+  "description": "An algebric pretty-printing library implementing the algorithm described by P. Wadler and D. Leijen. ",
+  "scripts": {
+    "test": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steinwaywhw/ats-pprint.git"
+  },
+  "keywords": [
+    "ats",
+    "pretty",
+    "printing"
+  ],
+  "author": "Steinway Wu <steinwaywhw@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steinwaywhw/ats-pprint/issues"
+  },
+  "homepage": "https://github.com/steinwaywhw/ats-pprint#readme",
+  "dependencies": [
+    "ats-utils"
+  ]
+}
